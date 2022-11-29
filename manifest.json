@@ -1,6 +1,6 @@
 {
-    "name": "Roblox Extension",
-    "description": "Extension for https://www.roblox.com",
+    "name": "Roblox Optimizer Extension",
+    "description": "Extension for https://www.roblox.com. This Extension optimizes your Roblox experience by adding features to the website.",
     "author": "Wuemeli",
     "version": "1.0.0",
     "manifest_version": 3,
@@ -21,7 +21,7 @@
     ],
 
     "background": {
-        "service_worker": "scripts/log.js"
+        "service_worker": "scripts/optimizer.js"
     },
 
     "icons": {
