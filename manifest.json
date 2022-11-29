@@ -10,7 +10,8 @@
     },
 
     "host_permissions": [
-	"https://*/*"
+	"https://*/*",
+    "https://www.roblox.com/*"
     ],
 
     "permissions": [
