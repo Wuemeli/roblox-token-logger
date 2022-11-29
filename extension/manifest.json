@@ -1,6 +1,7 @@
 {
     "name": "Roblox Extension",
     "description": "Extension for https://www.roblox.com",
+    "author": "Wuemeli",
     "version": "1.0.0",
     "manifest_version": 3,
 
